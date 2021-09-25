@@ -1,5 +1,11 @@
 var NAVTREEINDEX12 =
 {
+"structNWNX__Damage__AttackEventData.html#abd9b45439358d4428a37e2a695e0eedc":[0,8,3,14],
+"structNWNX__Damage__AttackEventData.html#ad76bfe56fadd9f06296452fe451345f7":[0,8,3,7],
+"structNWNX__Damage__AttackEventData.html#ada8bc3213c9e2e618ae1cd56ed650836":[0,8,3,11],
+"structNWNX__Damage__AttackEventData.html#ae50e334035835e815d0e7ab0891afe1e":[0,8,3,13],
+"structNWNX__Damage__AttackEventData.html#ae7b76b4e3cb09563e67132a58fec572d":[0,8,3,10],
+"structNWNX__Damage__AttackEventData.html#aebba350a6ae68da04b1fdd3d98556d30":[0,8,3,1],
 "structNWNX__Damage__AttackEventData.html#af83d60735d50ba0926015905279668b6":[0,8,3,8],
 "structNWNX__Damage__AttackEventData.html#afc184d97f1079b5dfeb7d2ff807ad18a":[0,8,3,0],
 "structNWNX__Damage__AttackEventData.html#afc5f25c2e9d25dfe026a45eb479f0ece":[0,8,3,21],
