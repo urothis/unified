@@ -42,19 +42,25 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"group__admin.html#gacadd6fdbf4f9b65057974a79aee45a60",
-"group__creature.html#ga1300b28822e4534d0210593c8e65042c",
-"group__creature.html#gab29a65c34e82a3f565551a6d706179db",
-"group__data__array__pushback.html#ga5fe76b9b7385a753e0a4d10d43f2779a",
-"group__experimental.html#experimental",
-"group__object.html#ga108d8b97fc769281ee4057a9a112d26f",
-"group__player.html#ga5e2ff6e3488970396222a7625eb957f2",
-"group__regex.html#ga6240bcb6a66df4cf6958212941e2b855",
-"group__util.html#ga43dd7acf87d691012c9bd844aa07a178",
-"nwnx__profiler_8nss_source.html",
-"nwnx__redis__short_8nss.html#a16f36180b712e0179ec4c2ce76c10326",
-"structNWNX__Area__TileInfo.html#af58eb65e41d9b1cec04ba3af9ff11025",
-"structNWNX__WebHook__Message.html#aa1df21fae063b94b82e2f3429410d243"
+"group__admin.html#gac8fb215c2a1fe1f9752241087e800c00",
+"group__creature.html#ga0a277468e5ea998dfbb7db20289e931b",
+"group__creature.html#gac11415b7ba623c6ee2c8690463799f5d",
+"group__data__array__set.html#gaaac6cd4aac56107163cfb3e4000e6fbb",
+"group__elc.html#gae958e84721572b4c2222850b7ce4857c",
+"group__events.html#ga468a30526d9da466e9186064a149c177",
+"group__events.html#ga9115c47c8142ddfdb5da2465a46b90ba",
+"group__events.html#gaef447e46898402a3d3f9373dc0cca173",
+"group__feedback.html#ga2375466c9b455df92c32321455d83cfb",
+"group__feedback.html#ga9ba2e77869a8d341cbf5694c38cf13c3",
+"group__item.html#ga9464b3a05fa000e593e9b5780c16c13e",
+"group__object.html#gacc402018cb67fd3d026fb212a99dfd53",
+"group__player.html#gad4b53329b786cc1bd0a8ba82e67f6779",
+"group__spellchecker.html#gacf06740191d7fc00fa355929b1904667",
+"group__visibility.html#ga86990aa8b04d68e3faec79e265260bad",
+"nwnx__redis_8nss.html#a2f7c3fef4086ec34bba7dc16702db964",
+"nwnx__redis__short_8nss.html#a4f3c43c2de281fd31b4d86e1674d8270",
+"structNWNX__Damage__AttackEventData.html#ae8062caa6110947a51dc1f8e2fef81aa",
+"structNWNX__WebHook__Message.html#a5f0ec56129c27676216f18742d009e92"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
